@@ -1,0 +1,15 @@
+谭敏
+教育背景：广西大学 自然语言处理 硕士 2022-2025
+      桂林电子科技大学 软件工程 学士 2018-2022
+
+工作经历：
+讯飞语音 语音算法工程师 2024.07-至今
+- 负责语音识别模型优化
+
+项目经验：
+1. 语音识别系统（2024.08-至今）
+   技术栈：PyTorch, Kaldi, Whisper
+2. 声纹识别项目（2024.02-2024.07）
+   技术栈：Python, TensorFlow, x-vector
+
+技能清单：Speech Recognition, PyTorch, Kaldi, Speaker Recognition, Deep Learning, Python

@@ -1,0 +1,15 @@
+苏刚
+教育背景：江苏大学 智能制造 硕士 2021-2024
+      南京工业大学 机械工程 学士 2017-2021
+
+工作经历：
+富士康 工业互联网开发工程师 2024.02-至今
+- 负责工业互联网平台开发
+
+项目经验：
+1. 工厂MES系统（2024.04-至今）
+   技术栈：Java, Spring Boot, PostgreSQL
+2. 设备预测性维护（2023.08-2024.02）
+   技术栈：Python, Spark, ML
+
+技能清单：Java, Python, Industrial IoT, Machine Learning, MES, Predictive Maintenance

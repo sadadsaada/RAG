@@ -1,0 +1,15 @@
+邵强
+教育背景：兰州大学 系统架构 硕士 2021-2024
+      西北大学 计算机科学与技术 学士 2017-2021
+
+工作经历：
+携程 架构师 2024.01-至今
+- 负责旅游平台系统架构设计
+
+项目经验：
+1. 酒店预订系统重构（2024.03-至今）
+   技术栈：Java, Spring Cloud, Kafka, ES
+2. 分布式缓存架构（2023.07-2024.01）
+   技术栈：Redis Cluster, Codis
+
+技能清单：Java, Spring Cloud, Kafka, Redis, Elasticsearch, Architecture, High Concurrency

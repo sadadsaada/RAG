@@ -1,0 +1,15 @@
+赵磊
+教育背景：哈尔滨工业大学 计算机科学与技术 硕士 2021-2024
+      西安电子科技大学 软件工程 学士 2017-2021
+
+工作经历：
+华为 云计算工程师 2024.02-至今
+- 负责云平台架构设计与维护
+
+项目经验：
+1. 容器云平台建设（2024.04-至今）
+   技术栈：Kubernetes, Docker, Prometheus
+2. DevOps自动化部署系统（2023.06-2024.02）
+   技术栈：Jenkins, GitLab, Ansible, Shell
+
+技能清单：Kubernetes, Docker, Jenkins, Linux, Shell, Ansible, Prometheus, Git

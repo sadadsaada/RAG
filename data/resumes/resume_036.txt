@@ -1,0 +1,15 @@
+孔磊
+教育背景：宁夏大学 网络架构 硕士 2021-2024
+      北方民族大学 通信工程 学士 2017-2021
+
+工作经历：
+中国移动 网络工程师 2024.02-至今
+- 负责5G网络规划和优化
+
+项目经验：
+1. 5G基站部署（2024.04-至今）
+   技术栈：5G, LTE, Network Planning
+2. 网络监控系统（2023.09-2024.02）
+   技术栈：Python, Zabbix, Grafana
+
+技能清单：5G, LTE, Network Planning, Python, Zabbix, Network Security, Monitoring

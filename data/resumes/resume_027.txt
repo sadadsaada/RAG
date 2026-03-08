@@ -1,0 +1,15 @@
+姜莉
+教育背景：福州大学 搜索算法 硕士 2022-2025
+      厦门大学 信息与计算科学 学士 2018-2022
+
+工作经历：
+美团 搜索算法工程师 2024.06-至今
+- 负责搜索排序优化
+
+项目经验：
+1. 语义搜索系统（2024.07-至今）
+   技术栈：Python, Elasticsearch, BERT
+2. 个性化搜索（2024.02-2024.06）
+   技术栈：Python, Spark, LGBM
+
+技能清单：Python, Elasticsearch, BERT, Spark, LGBM, Search Engine, Ranking, NLP

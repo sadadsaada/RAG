@@ -1,0 +1,15 @@
+宋佳
+教育背景：浙江工业大学 推荐系统 硕士 2020-2023
+      宁波大学 计算机科学与技术 学士 2016-2020
+
+工作经历：
+网易云音乐 推荐算法工程师 2023.09-至今
+- 负责音乐推荐系统优化
+
+项目经验：
+1. 个性化推荐系统（2024.02-至今）
+   技术栈：Python, Spark, TensorFlow, Redis
+2. 音乐版权识别（2023.10-2024.02）
+   技术栈：Python, CNN, 音频指纹
+
+技能清单：Python, Spark, TensorFlow, Recommendation System, Machine Learning, Redis
