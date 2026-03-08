@@ -34,7 +34,7 @@
 ├── build_knowledge_base.py # 知识库构建脚本
 │
 ├── data/
-│   ├── resumes/             # 测试简历数据（50份）
+│   ├── resumes/             # 测试简历数据
 │   ├── questions/           # 面试问题知识库
 │   │   ├── 技术问题_python.txt
 │   │   ├── 技术问题_mysql.txt
